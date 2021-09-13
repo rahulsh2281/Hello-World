@@ -1,2 +1,2 @@
 # Hello-World
-Just Get to know How hithub works
+Just Get to know How Github works
